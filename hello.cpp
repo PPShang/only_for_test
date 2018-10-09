@@ -12,8 +12,7 @@
 
 using namespace std;
 
-int main(int argc, char* argv[])
-{
+int main(int argc, char* argv[]) {
     boost::ignore_unused(argc, argv);
     cout << "Hello World!" << endl;
     return 0;
